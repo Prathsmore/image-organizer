@@ -1,4 +1,4 @@
-# 🖼️ Image Organizer CLI
+# 🖼️ Image Organizer
 
 Organizes image files in a directory into subfolders based on resolution.
 
